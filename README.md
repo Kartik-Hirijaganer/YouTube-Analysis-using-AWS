@@ -11,5 +11,5 @@ This project aimed to analyze the structured and semi-structured YouTube video d
 5. AWS Lambda: Virtual function, used to format data in the desired format while storing raw data in an S3 bucket.
 6. AWS Athena: Athena is used to query data directly from S3 and act as a quicksight source.
 
-## Artitecture Diagram
-
+## Architecture Diagram
+![Architecture Diagram](images/architecture.png)
