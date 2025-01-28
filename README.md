@@ -28,6 +28,9 @@ This project aimed to analyze the structured and semi-structured YouTube video d
 - It runs the ETL job on the cleansed bucket and stores the transformed data in the analytics data bucket.
 ![AWS Glue](images/glue.png)
 
+## Glue Crawler
+![Glue Crawler](images/GlueCrawler.png)
+
 ## Glue Database
 ![Glue Database](images/glueDB.png)
 
